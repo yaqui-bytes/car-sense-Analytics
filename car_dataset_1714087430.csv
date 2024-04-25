@@ -1,0 +1,134 @@
+,,,PRECIO,,,,,,,,,,,FRENOS,,,DIMENCIONES,,,,,SEGURIDAD,,,,,,,EQUIPAMIENTO,,,,,,,,,,,
+brand,model,Year,Max,Min,adult passangers,Peso (KG),transmission,tipo combustible,Tanque Combustible,consumo,4x4/AWD,Carga Extra/Voluminosa ,Capacidad Cajuela,Frenos Delanteros,Frenos Traseros,Asistencias,Largo(m),Ancho,Alto,Dist ejes,Altura al Suelo,Bolsas Frontales,Bolsas laterales,Cortina,Rodilla (Conductor),Monitor presion llantas,NCAP,Frenado de emergencia,Camara de reversa,Camara 360,Bluetooth,Android auto/Apple play,Control Crucero,Contro Crucero Inteligente,Alerta Punto Ciego,Sensor de lluvia,Arrastre,Jalon,Carroceria,Segmento
+Toyota,Yaris,2024,"$388,700","$312,800",5,,A/S,Gas,40,15,No,No,475,Disco,Tambor,VSC/TRAC/HAC,4.4,1.6,1.4,2.6,Normal,Si,Si,Si,No,Si,5,,Si,No,Si,Si,Si,Si,Si,No,No,,Sedan,Ciudad
+Toyota,Corolla,2024,"$529,900","$419,900",5,1405,A,Gas,50,17,No,No,361,Disco,Disco,VSC/TRAC/HAC,4.6,1.78,1.4,2.7,Normal/.15m,Si,Si,Si,Si,Si,5,Si,Si,No,Si,Si,Si,Si,Si,No,No,,Sedan,Sedan-MidSize
+Toyota,Cambry,2024,"$598,800","$571,900",5,1515,A,Gas,60.6,15,No,No,427,Disco,Disco,VSC/TRAC/HAC,4.8,1.8,1.4,2.8,Normal/.15m,Si,Si,Si,Si,Si,5,Si,Si,No,Si,Si,Si,Si,Si,No,No,,Sedan,Sedan-Fullsize*
+Toyota,Raize,2024,"$400,000","$378,400",5,1035,A/S,Gas,36,15,No,No,369,Disco,Tambor,VSC/TRAC/HAC,4,1.7,1.6,2.5,Alta,Si,Si,Si,No,Si,5,No,Si,No,Si,Si,No,No,No,No,No,No,SUV,SUV-City
+Toyota,Corolla Cross,2024,"$528,700","$528,700",5,1425,A,Gas,47,14.5,No,No,500,Disco,Disco,VSC/TRAC/HAC,4.4,1.82,1.6,2.6,Alta/.20m,Si,Si,Si,Si,Si,5,Si,Si,No,Si,Si,Si,Si,Si,No,No,Si,SUV,SUV-MidSize
+Toyota,Rav4,2024,"$727,800","$562,800",5,1695,A,Gas,55,14,Si,No,595,Disco,Disco,VSC/TRAC/HAC/DAC,4.6,1.86,1.6,2.6,Alta/.21m,Si,Si,Si,Si,Si,5,Si,Si,No,Si,Si,Si,Si,Si,Si,No,Si,SUV,SUV-MidSize
+Toyota,Highlander HEV,2024,"$1,004,400","$879,400",8,2000,A,Gas,65,13,No,No,755,Disco,Disco,VSC/TRAC/HAC,4.9,1.9,1.7,2.85,Alta/.20m,Si,Si,Si,Si,Si,5,Si,Si,No,Si,Si,Si,Si,Si,Si,No,Si,SUV,SUV-Fullsize/Hybrid
+Toyota ,Sequioa HEV,2024,"$1,693,600","$1,548,700",8,2750,A,Gas/Hibrido,85,9.3,Si,No,800,Disco,Disco,VSC/TRAC/HAC,5.2,2,1.8,3.1,Alta/.221m,Si,Si,Si,Si,Si,5,Si,Si,Si,Si,Si,Si,Si,Si,Si,Si,Si,SUV,SUV-Fullsize/Hybrid
+Toyota ,Hilux,2024,"$638,500","$535,400",5,1815,A/S,Gas/Diesel,80,10,Si,Si,1000,Disco,Tambor,HAC/TSC/VSC/TRAC,5.2,1.8,1.8,3,Extra Alta,Si,Si,Si,Si,No,5,No,Si,No,Si,Si,No,No,No,No,Si,Si,Pickup,Pickup-MidSize
+Toyota ,Tacoma,2024,"$969,900","$769,900",5,1965,A,Gas,69,8,Si,Si,1000,Disco,Disco,HAC/TSC/VSC/TRAC,5.4,1.9,1.8,3.3,Extra Alta,Si,Si,Si,Si,Si,5,Si,Si,No,Si,Si,Si,Si,Si,Si,Si,Si,Pickup,Pickup-MidSize
+Toyota,Avanza,2024,"$387,900","$354,700",7,1150,A/S,Gas,43,13,No,No,585,Disco,Tambor,VSC/TRAC/HAC,4.3,1.7,1.6,2.7,Normal/.190,Si,Si,Si,No,No,5,No,Si,No,Si,Si,No,No,No,No,No,No,MiniVan,MiniVan
+Toyota,Sienna HEV,2024,"$1,108,000","$891,600",8,2100,A,Gas/Hibrido,68,14,No,No,779,Disco,Disco,VSC/TRAC/SST,5.1,1.9,1.7,3,Normal/.180,Si,Si,Si,Si,Si,5,Si,Si,Si,Si,Si,Si,Si,Si,Si,No,Si,MiniVan,MiniVan/Hybrid
+Toyota ,Prius,2024,"$559,000","$484,900",5,1395,A,Gas/Hibrido,43,22,No,No,361,Disco,Disco,VSC/TRAC/SST,4.5,1.7,1.4,2.7,Normal,Si,Si,Si,Si,Si,5,Si,Si,No,Si,Si,Si,Si,Si,Si,No,No,Sedan,Sedan/MidSize/Hybrid
+Toyota,Tundra HEV,2024,"$1,633,700","$1,422,300",5,2750,A,Gas/Hibrido,122,9,Si,Si,1000,Disco,Disco,HAC/TSC/VSC/TRAC/,5.9,2,1.9,3.1,Extra Alta/.282,Si,Si,Si,Si,Si,5,Si,Si,,Si,Si,Si,Si,Si,Si,Si,Si,Pickup,Pickup-FullSize/Hybrid
+Honda,City,2024,"$463,900","$401,900",5,,A,Gas,40,21,No,No,519,Disco,Tambor,Sistme de traccion delantera,4.5,1.7,1.4,2.6,Normal,Si,Si,Si,No,Si,5,Si,Si,Si,Si,Si,Si,Si,Si,No,No,No,Sedan,Ciudad
+Honda,CIvic,2024,"$659,900","$550,900",5,1379,A,Gas,46,16,No,No,408,Disco,Disco,Sistema ECO Assist,4.6,1.8,1.4,2.7,Normal,Si,Si,Si,Si,Si,5,Si,Si,Si,Si,Si,Si,Si,Si,Si,No,No,Sedan,Sedan-MidSize
+Honda,Accord,2024,"$755,900","$755,900",5,1571,A,Gas,56,15,No,No,472,Disco,Disco,Sistema ECO Assist,4.9,1.8,1.45,2.8,Normal,Si,Si,Si,Si,Si,5,Si,Si,Si,Si,Si,Si,Si,Si,Si,No,No,Sedan,Sedan-FullSize
+Honda,Accord Hybrid,2024,"$895,900","$895,900",5,1642,A,Gas/Hibrido,48.5,22,No,No,472,Disco,Disco,Sistema ECO Assist,4.9,1.8,1.45,2.8,Normal,Si,Si,Si,Si,Si,5,Si,Si,Si,Si,Si,Si,Si,Si,Si,No,No,Sedan,Sedan-FullSize/Hybrid
+Honda,BR-V,2024,"$519,900","$480,900",5,1297,A,Gas,42,12,No,No,244,Disco,Disco,Sistema ECO Assist,4.49,1.7,1.6,,Alta,Si,Si,Si,No,Si,5,Si,Si,No,Si,Si,Si,Si,Si,Si,No,Si,SUV,SUV-MidSize
+Honda,HR-V,2024,"$654,900","$489,900",5,1465,A,Gas,57,15,No,No,473,Disco,Disco,Sistema ECO Assist,4.56,1.8,1.6,2.65,Alta,Si,Si,Si,Si,Si,5,Si,Si,Si,Si,Si,Si,Si,Si,Si,No,Si,SUV,SUV-MidSize
+Honda,CR-V,2024,"$844,900","$739,900",5,1609,A,Gas,57,14,No,No,780,Disco,Disco,Sistema ECO Assist,4.6,1.8,1.6,2.7,Alta,Si,Si,Si,Si,Si,5,Si,Si,Si,Si,Si,Si,Si,Si,Si,No,Si,SUV,SUV-Fullsize
+Honda,CR-V Hybrid,2024,"$929,900","$929,900",5,1736,A,Gas/Hibrido,57,16,No,No,780,Disco,Disco,Sistema ECO Assist,4.6,1.8,1.6,2.7,Alta,Si,Si,Si,Si,Si,5,Si,Si,Si,Si,Si,Si,Si,Si,Si,No,Si,SUV,SUV-Fullsize/Hybrid
+Honda,Pilot,2024,"$1,195,900","$1,165,900",8,2004,A,Gas,70,10,No,No,780,Disco,Disco,Sistema ECO Assist,5,1.9,1.7,2.89,Alta,Si,Si,Si,Si,Si,5,Si,Si,Si,Si,Si,Si,Si,Si,Si,No,Si,SUV,SUV-ExtendedSize
+Honda,Odyssey,2024,"$1,154,900","$1,124,900",8,2072,A,Gas,73.8,10,No,No,886,Disco,Disco,Sistema ECO Assist,5.2,1.995,1.7,3,Normal,Si,Si,Si,Si,Si,5,Si,Si,Si,Si,Si,Si,Si,Si,Si,No,Si,SUV,MiniVan
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Chevrolet,Aveo Hatchback,2024,"$335,900","$305,900",5,1530,A/S,Gas,45,18,No,No,304,Disco,Disco,Control de estabilidad (StabiliTrak)	/ABS,4.1,1.65,1.4,2.55,Normal,Si,Si,Si,No,No,3,No,Si,No,Si,Si,No,No,No,No,No,No,Hashback,Ciudad
+Chevrolet,Aveo Sedan,2024,"$345,900","$295,400",5,1550,A/S,Gas,45,16,No,No,475,Disco,Disco,Control de estabilidad (StabiliTrak)	/ABS,4.49,1.65,1.49,2.55,Normal,Si,Si,Si,No,Si,3,No,Si,No,Si,Si,No,No,No,No,No,No,Sedan,Sedan-SmallSize
+Chevrolet,Onix,2024,"$411,900","$320,900",5,1495,A/S,Gas,44,23,No,No,469,Disco,Disco,Control de estabilidad (StabiliTrak)	/ABS,4.47,1.7,1.4,2.5,Normal,Si,Si,Si,No,No,5,No,Si,No,Si,No,No,No,No,No,No,No,Sedan,Sedan-SmallSize
+Chevrolet,Cavalier,2024,"$500,400","$440,900",5,1705,A,Gas,44,19.11,No,No,405,Disco,Disco,Control de estabilidad (StabiliTrak)	/ABS,4.6,1.7,1.4,2.6,Normal,Si,Si,No,No,Si,4,No,Si,No,Si,Si,Si,No,No,No,No,No,Sedan,Sedan-MidSize
+Chevrolet,Groove,2024,"$452,900","$385,900",5,1635,A/S,Gas,45,16.8,No,No,471,Disco,Disco,Control de estabilidad (StabiliTrak)	/ABS,4.2,1.74,1.615,2.55,Alta,Si,Si,No,No,Si,-,No,Si,No,Si,Si,No,No,No,No,No,Si,SUV,SUV-SmallSize
+Chevrolet,Tracker,2024,"$545,700","$422,400",5,1677,A/S,Gas,44,18,No,No,681,Disco,Tambor,StabiliTrack/ABS/EBD/TCS,4.27,1.79,1.6,2.57,Alta,Si,Si,Si,No,Si,5,Si,Si,No,Si,Si,Si,No,Si,Si,No,Si,SUV,SUV-SmallSize
+Chevrolet,Captiva,2024,"$557,100","$489,200",5/7,2160,A,Gas,52,14,No,No,304,Disco,Disco,StabiliTrack/ABS/EBD/TCS,4.715,1.835,1.75,2.75,Alta,Si,Si,Si,No,Si,5,No,Si,Si,Si,Si,Si,No,No,No,No,Si,SUV,SUV-FullSize
+Chevrolet Trax,,2024,"$582,300","$507,100",5,1880,A,Gas,50,17.6,No,No,414,Disco,Disco,StabiliTrack/ABS/EBD/TCS,4.537,1.823,1.56,2.57,Alta,Si,Si,Si,No,Si,5,Si,Si,No,Si,Si,Si,Si,Si,No,No,Si,SUV,SUV-MidSize
+Chevrolet Trax,Traverse,2024,"$1,131,100","$1,131,100",7/8,1975,A,Gas,73,11.8,No,No,651.2,Disco,Disco,StabiliTrack/ABS/EBD/TCS,5.189,1.996,1.796,3.07,Alta,Si,Si,Si,Si,Si,5,Si,Si,Si,Si,Si,Si,Si,Si,Si,No,Si,SUV,SUV-ExtendedSize
+Chevrolet Trax,Blazer,2024,"$1,132,400","$1,132,400",5,1883,A,Gas,73,12,No,No,780,Disco,Disco,StabiliTrack/ABS/EBD/TCS,4.85,1.95,1.676,2.863,Alta,Si,Si,Si,Si,Si,5,Si,Si,Si,Si,Si,Si,Si,Si,Si,No,Si,SUV,SUV-FullSize
+Chevrolet Trax,Tahoe,2024,"$1,921,100","$1,702,600",8,3357,A,Gas,98,8,Si,No,700,Disco,Disco,StabiliTrack/ABS/EBD/TCS,5.351,2.058,1.927,3.071,Alta/2.04,Si,Si,Si,Si,Si,5,Si,Si,Si,Si,Si,Si,Si,Si,Si,Si,Si,SUV,SUV-ExtendedSize
+Chevrolet Trax,Suburban,2024,"$2,073,900","$1,854,900",8,3447,A,Gas,110,7.5,Si,No,971,Disco,Disco,StabiliTrack/ABS/EBD/TCS,5.732,2.059,1.823,3.407,Alta/2.04,Si,Si,Si,Si,Si,5,Si,Si,Si,Si,Si,Si,Si,Si,Si,Si,Si,SUV,SUV-ExtendedSize
+Chevrolet,Montana,2024,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Chevrolet Trax,S10 Max,2024,"$689,400","$495,400",5,2970,S,Gas,75,11.6,Si,Si,"1,010",Disco,Disco,StabiliTrack/ABS/EBD/TCS,5.365,1.9,1.814,3.155,Extra Alta,Si,Si,Si,No,No,5,No,Si,No,Si,Si,Si,No,No,No,Si/500,Si,Pickup,Pickup-MidSize
+Chevrolet Colorado,,2024,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Chevrolet Colorado,Silverado,2024,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Chevrolet Colorado,Cheyenne,2024,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Nissan,March,2024,"$270,000","$345,900",5,1016,A/S,Gas,,20,No,No,230,Disco,Tambor,ABS/EBD/BA,3.8,1.66,1.528,2.45,Normal,Si,Si,Si,,Si,2,No,Si,,Si,No,No,No,No,,No,,Hashback,Ciudad
+Nissan,Versa,2024,"$340,000","$430,000",5,1143,A/S,Gas,,18.5,no,No,330*,Disco,Tambor,ABS/EBD/BA,4.4,1.7,1.47,2.6,Normal,Si,Si,Si,,Si,3,No,Si,,Si,Si,Si,No,No,,No,,Sedan,Sedan-MidSize
+Nissan,Sentra,2024,"$400,000","$545,000",5,1330,A/S,Gas,,17,No,No,466,Disco,Disco,ABS/EBD/BA,4.6,1.8,1.45,2.7,Normal,Si,Si,Si,,Si,5,Si,Si,,Si,Si,Si,Si,Si,,No,,Sedan,Sedan-MidSize
+Nissan,Altima,2024,"$820,900","$750,900",5,1572,A,Gas,61.3,14,No,No,473,Disco,Disco,ABS/EBD/BA,4.9,2,1.4,2.8,Normal,Si,Si,Si,Si,Si,5,Si,Si,No,Si,Si,Si,Si,Si,Si,No,No,Sedan,Sedan-Fullsize
+Nissan,Kicks,2024,"$426,000","$518,000",5,1177,A/S,Gas,,16,No,No,674,Disco,Disco,ABS/EBD/BA,4.3,1.7,1.6,2.6,Alta,Si,Si,Si,,Si,4,Si,Si,,Si,Si,Si,No,Si,,No,,Hashback,SUV-MidSize
+Nissan ,X-trail,2024,"$651,000","$795,000",5,1600,A,Gas,,14,No,No,800*,Disco,Disco,ABS/EBD/BA,4.6,1.8,1.6,2.7,Alta,Si,Si,Si,,Si,5,Si,Si,,Si,Si,Si,Si,Si,,No,,Hashback,SUV-MidSize
+Nissan ,PathFinder,2024,"$1,243,000","$1,280,000",8,2100,A,Gas,,10,No,No,800*,Disco,Disco,ABS/EBD/BA,5,1.9,1.8,2.9,Alta,Si,Si,Si,,Si,5,Si,Si,,Si,Si,Si,Si,Si,,Si,,Hashback,SUV-FullSize
+Nissan ,Frontier,2024,"$500,000","$831,000",5,2000,A/S,Gas/Diesel,,9,Si,Si,1000,Disco,Tambor,ABS/EBD/BA,5.2,1.8,1.8,3.1,Extra alta,Si,Si,Si,,Si,5,Si,Si,,Si,Si,Si,No,No,,Si,,Pickup,Pickup
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mazda,2,2024,"$288,900","$388,900",5,1613,A/S,Gas,44,Combinado (19.1),No,No,440,Disco,Tambor,ABS/EBD/BA/DSC/TCS,4.34,1.98,1.47,,Normal,Si,Si,Si,No,Si,2,Si,Si,,Si,Si,Si,No,No,Si,No,,Sedan,Sedan-MidSize
+Mazda,2,2024,"$318,900","$388,900",5,1601,A/S,Gas,44,Combinado (18.8),No,No,215,Disco,Tambor,ABS/EBD/BA/DSC/TCS/LDW,4.08,1.98,1.49,,Normal,Si,Si,Si,No,Si,2,No,Si,,Si,Si,Si,No,No,Si,No,,Hatchback,Ciudad
+Mazda,3,2024,"$392,900","$542,900",5,1881,A/S,Gas,51,Combinado (14.9),No,No,719,Disco,Disco,ABS/EBD/BA/DSC/TCS/LDW,4.66,2.02,1.44,,Normal,Si,Si,Si,Si,Si,5,Si,Si,Si,Si,Si,Si,Si,Si,Si,No,,Sedan,Sedan-FullSize
+Mazda,3,2024,"$448,900","$558,900",5,1870,A,Gas,51,Combinado (15.2),No,No,569,Disco,Disco,ABS/EBD/BA/DSC/TCS/LDW,4.45,2.02,1.4,,Normal,Si,Si,Si,Si,Si,5,Si,Si,Si,Si,Si,Si,Si,Si,Si,No,,Hatchback,Sedan-MidSize
+Mazda,CX-3,2024,"$380,900","$450,900",5,1762,A,Gas,48,Combinado (17.3),No,No,240,Disco,Disco,ABS/EBD/BA/DSC/TCS,4.27,2.04,1.54,,Alta,Si,Si,Si,No,Si,4,No,Si,No,Si,Si,Si,No,Si,Si,No,,SUV,SUV-SmallSize
+Mazda,CX-5,2024,"$558,900","$688,900",5,2115,A,Gas,56,Combinado (13.7),No,No,871,Disco,Disco,ABS/EBD/BA/DSC/TCS/LDW,4.57,2.11,1.68,,Alta,Si,Si,Si,No,Si,5,Si,Si,Si,Si,Si,Si,Si,Si,Si,No,,SUV,SUV-MidSize
+Mazda,CX-30,2024,"$459,900","$545,900",5,2042,A,Gas,51,Combinado (14.4),No,No,572,Disco,Disco,ABS/EBD/BA/DSC/TCS,4.29,2.04,1.56,,Alta,Si,Si,Si,Si,Si,5,No,Si,No,Si,Si,Si,No,Si,Si,No,,SUV,SUV-SmallSize
+Mazda,CX-50,2024,"$805,900",,5,2272,A,Gas,60,Combinado (13.3),Si,No,889,Disco,Disco,ABS/EBD/BA/DSC/TCS,4.72,2.05,1.62,,Alta,Si,Si,Si,Si,Si,5,No,Si,No,Si,Si,Si,Si,Si,Si,No,,SUV,SUV-MidSize
+Mazda,CX-90,2024,"$1,138,000",,8,2918,A,Gas,74,Combinado (13.1),Si,No,423,Disco,Disco,ABS/EBD/BA/DSC/TCS/LDW,5.1,2.15,1.74,,Alta,Si,Si,Si,Si,Si,,Si,Si,Si,Si,Si,Si,Si,Si,Si,No,,SUV,SUV-ExtendedSize
+Mazda,MX-5,2024,"$619,900",,2,1242,A/S,Gas,45,Combinado (16.1),No,No,127,Disco,Disco,ABS/EBD/BA/DSC/TCS,3.91,1.91,1.24,,Normal,Si,Si,No,No,Si,4,Si,Si,No,Si,Si,Si,Si,Si,Si,No,,Roadster,Ciudad
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ford,Edge,2024,"$1,070,000","$1,240,000",5,,A,Gas,,,Si,No,,Disco,Disco,ABS/EBD/RSC/AdvanceTrac,4.7,2.1,4.7,,Alta,Si,Si,Si,Si,Si,5,Si,Si,No,Si,Si,Si,Si,Si,Si,No,No,SUV,SUV-MidSize
+Ford,Bronco,2024,"$1,438,000","$1,564,000",5,,A,Gas,,,Si,No,,Disco,Disco,ABS/EBD/RSC/AdvanceTrac,4.81,1.93,1.85,4.46,Alta (261mm),Si,Si,Si,No,Si,5,Si,Si,Si,Si,Si,Si,Si,Si,Si,Si,Si,SUV,SUV-MidSize
+Ford,Territory,2024,"$597,000","$772,000",5,,A,Gas,60,,No,No,448,Disco,Disco,ABS/EBD/TCS,4.62,1.93,1.7,,Alta,Si,Si,Si,No,Si,5,No,Si,No,Si,Si,Si,Si,Si,Si,No,No,SUV,SUV-MidSize
+Ford,Escape HEV,2024,"$766,000","$964,000",5,1671,A,Gas/Hibrida,54.1,,No,No,,Disco,Disco,ABS/EBD/RSC/AdvanceTrac,4.57,2.17,1.67,2.71,Alta,Si,Si,Si,Si,Si,5,Si,Si,Si,Si,Si,Si,Si,Si,Si,No,No,SUV,SUV-MidSize
+Ford,Expedition,2024,"$1,617,000","$1,897,000",8,,A,Gas,,,Si,No,,Disco,Disco,ABS/EBD/RSC/AdvanceTrac,5.63,2.37,1.94,,Alta (248mm),Si,Si,Si,No,Si,,Si,Si,Si,Si,Si,Si,No,Si,Si,Si,Si,SUV,SUV-ExtendedSize
+Ford,Maverick,2024,"$702,000","$908,000",5,,A,Gas,,,Si,Si,,Disco,Disco,ABS/EBD/RSC/AdvanceTrac,5.07,1.97,1.74,3.07,Alta (218mm),Si,Si,Si,Si,Si,,Si,Si,No,Si,Si,Si,No,No,No,Si,Si,Pickup,Pickup-MidSize
+Ford,Maverick HEV,2024,"$842,000",,5,,A,Gas/Hibrida,52,,No,Si,,Disco,Disco,ABS/EBD/RSC/AdvanceTrac,5.07,1.97,1.74,3.07,Alta (211mm),Si,Si,Si,Si,Si,,Si,Si,No,Si,Si,Si,No,No,No,Si,Si,Pickup,Pickup
+Ford,Mustang Mach E,2024,"$1,445,000","$1,704,000",5,,A,Electrico,91 kWh,,Si,No,,Disco,Disco,ABS/EBD/RSC/AdvanceTrac,4.74,2.09,1.61,,Alta,Si,Si,Si,Si,Si,5,Si,Si,Si,Si,Si,Si,Si,Si,Si,No,No,SUV,SUV-MidSize
+Ford,Ranger,2024,"$818,000","$1,074,000",5,,A,Gas/Diesel,80,,Si,Si,1233,Disco,Disco,ABS/EBD/RSC/AdvanceTrac,5.35,1.91,1.88,3.27,Alta,Si,Si,Si,Si,Si,5,Si,Si,No,Si,Si,Si,No,No,Si,Si,Si,Pickup,Pickup-MidSize
+Ford,Lobo,2024,"$1,238,000","$1,786,000",5,3197,A,Gas,98,,Si,Si,,Disco,Disco,ABS/EBD/RSC/AdvanceTrac,5.88,2.02,1.95,,Alta(239mm),Si,Si,Si,No,Si,,Si,Si,Si,Si,Si,Si,Si,Si,Si,Si,Si,Pickup,Pickup-FullSize
+Ford,Lobo HEV,2024,"$1,786,000",,5,3333,A,Gas/Hibrida,115,,Si,Si,,Disco,Disco,ABS/EBD/RSC/AdvanceTrac,5.88,2.02,1.95,,Alta(239mm),Si,Si,Si,No,Si,,Si,Si,Si,Si,Si,Si,Si,Si,Si,Si,Si,Pickup,Pickup-FullSize
+VW,Nivus,2024,"$479,070",,5,1312,A,Gas,52,16.7,No,No,415,Disco,Disco,ABS/ASR/EDL/ESC,4.26,1.75,1.49,2.56,Normal,Si,Si,Si,No,Si,5,Si,Si,No,Si,Si,Si,Si,No,Si,No,No,SUV,SUV-SmallSize
+VW,Polo,2024,"$318,970","$408,970",5,1570,A/S,Gas,52,16.8,No,No,300,Disco,Tambor,ABS/ASR/ESC,4.07,1.75,1.47,2.56,Normal,Si,Si,No,No,Si,3,No,Si,No,Si,Si,Si,No,No,Si,No,No,Hatchback,Ciudad
+VW,Taos,2024,"$495,070","$590,070",5,1940,A,Gas,50,16.3,No,No,500,Disco,Disco,ABS/ASR/EDL/ESC/EBV,4.46,1.84,1.63,2.68,Alta,Si,Si,Si,No,Si,5,Si,Si,No,Si,Si,Si,Si,Si,Si,No,No,SUV,SUV-MidSize
+VW,Taigun,2024,"$424,070","$495,070",5,1269,A,Gas,50,17,No,No,385,Disco,Tambor,ABS/ASR/EBV/ESC,4.22,1.76,1.57,2.65,Alta,Si,Si,Si,No,Si,5,Si,Si,No,Si,Si,Si,No,No,Si,No,No,SUV,SUV-MidSize
+VW,Tiguan,2024,"$577,070","$814,070",7,2340,A,Gas,58,14.3,Si,No,760,Disco,Disco,ABS/EDL/ASR/ESC/EBV,4.72,1.83,1.66,2.79,Alta,Si,Si,Si,No,Si,5,Si,Si,No,Si,Si,Si,Si,Si,Si,Si,Si,SUV,SUV-Fullsize
+VW,Terramont,2024,"$954,070","$1,181,070",7,2690,A,Gas,70.4,11.6,No,No,1572,Disco,Disco,ABS/ASR/ESC/EBV/EDS,5.09,1.99,1.78,2.98,Alta,Si,Si,Si,No,Si,5,Si,Si,Si,Si,Si,Si,Si,Si,Si,Si,Si,SUV,SUV-ExtendedSize
+VW,T-cross,2024,"$417,870",,5,1263,A,Gas,50,16.8,No,No,373,Disco,Tambor,ABS/ASR/ESC/EBV/EDS,4.19,1.76,1.56,2.65,Alta,Si,Si,Si,No,No,5,No,No,No,Si,Si,No,No,No,No,No,No,SUV,SUV-SmallSize
+VW,Virtus,2024,"$326,470","$422,470",5,1657,A/S,Gas,50,17.5,No,No,521,Disco,Tambor,ABS/ASR/ESC/EDS,4.56,1.75,1.48,2.65,Normal,Si,Si,Si,No,Si,5,Si,Si,No,Si,Si,Si,No,Si,Si,No,No,Sedan,Sedan-MidSize
+VW,Jetta,2024,"$424,770","$549,770",5,1860,A,Gas,50,18.5,No,No,510,Disco,Disco,ABS/ASR/ESC/EBV/EDS,4.73,1.79,1.45,2.68,Normal,Si,Si,Si,No,Si,5,Si,Si,No,Si,Si,Si,Si,Si,Si,No,No,Sedan,Sedan-Fullsize
+VW,Saveiro,2024,"$322,670",,2,1735,S,Gas,55,15.9,No,Si,,Disco,Disco,ABS/ASR/ESC,4.49,1.7,1.49,2.75,Normal,Si,No,No,No,No,,No,No,No,Si,No,No,No,No,No,Si,Si,Pickup,Pickup-SmallSize
+VW,Saveiro,2024,"$417,670",,5,1740,S,Gas,55,15.9,No,Si,,Disco,Disco,ABS/ASR/ESC,4.49,1.7,1.57,2.75,Alta,Si,No,No,No,Si,,No,Si,No,Si,No,Si,No,No,Si,Si,Si,Pickup,Pickup-SmallSize
+Kia,K3 Hatchback,2024,"$341,900","$461,900",5,,A/S,Gas,45,16.7,No,No,,Disco,Disco,ABS/ESC/ADAS,4.29,1.76,1.49,2.67,Normal,Si,Si,Si,No,Si,,Si,Si,No,Si,Si,Si,No,Si,No,No,No,Hatchback,Ciudad
+Kia,K3,2024,"$316,900","$458,900",5,,A/S,Gas,45,16.8,No,No,,Disco,Disco,ABS/ESC/ADAS,4.54,1.76,1.47,2.67,Normal,Si,Si,Si,No,Si,,Si,Si,No,Si,Si,Si,No,Si,No,No,No,Sedan,Sedan-MidSize
+Kia ,Forte Hatchback,2024,"$448,900","$547,900",5,1555,A,Gas,50,17.02,No,No,400,Disco,Disco,ABS/ESC/VSM/ADAS,4.51,1.8,1.46,2.7,Normal,Si,Si,Si,No,No,5,Si,Si,No,Si,Si,Si,No,Si,No,No,No,Hatchback,Ciudad
+Kia ,Forte,2024,"$387,900","$541,900",5,1707,A/S,Gas,50,17.07,No,No,,Disco,Disco,ABS/ESC/VSM/ADAS,4.64,1.8,1.45,2.7,Normal,Si,Si,Si,No,No,5,Si,Si,No,Si,Si,Si,No,Si,No,No,No,Sedan,Sedan-MidSize
+Kia ,Sonet,2024,"$372,900","$452,900",5,,A/S,Gas,45,17.47,No,No,,Disco,Disco,ABS/ESC/ADAS,4.11,1.79,1.64,2.5,Normal,Si,Si,Si,No,Si,3,Si,Si,No,Si,Si,Si,No,No,No,No,No,SUV,SUV-SmallSize
+Kia,Soul,2024,"$394,900","$476,900",5,1308,A/S,Gas,54,16.1,No,No,686,Disco,Disco,ABS/ESC/ADAS,4.19,1.8,1.6,2.6,Alta,Si,Si,Si,No,Si,4,Si,Si,No,Si,Si,Si,No,Si,Si,No,No,SUV,SUV-SmallSize
+Kia,Seltos,2024,"$460,900","$576,900",5,1710,A,Gas,50,17,No,No,433,Disco,Disco,ABS/ESC/ADAS,4.38,1.8,1.63,2.63,Alta,Si,Si,Si,No,Si,3,Si,Si,No,Si,Si,Si,No,Si,Si,No,No,SUV,SUV-MidSize
+Kia,Sportage,2024,"$594,900","$752,900",5,,A,Gas,54,14.6,No,No,,Disco,Disco,ABS/ESC/ADAS,4.66,1.86,1.66,2.77,Alta,Si,Si,Si,No,Si,5,Si,Si,No,Si,Si,Si,Si,Si,Si,No,No,SUV,SUV-MidSize
+Kia,Sportage Hibrida,2024,"$872,900",,5,,A,Gas/Hibrida,52,23.7,No,No,,Disco,Disco,ABS/ESC/ADAS,4.66,1.86,1.66,2.77,Alta,Si,Si,Si,No,Si,5,Si,Si,No,Si,Si,Si,Si,Si,Si,No,No,SUV,SUV-MidSize
+Kia,Sorento,2024,"$821,900","$985,900",7,1783,A,Gas,67,15.22,No,No,,Disco,Disco,ABS/ESC/ADAS,4.81,1.9,1.69,2.81,Alta,Si,Si,Si,Si,Si,5,Si,Si,Si,Si,Si,Si,Si,Si,No,Si,Si,SUV,SUV-ExtendedSize
+Kia,Telluride,2024,"$1,189,900",,7,2036,A,Gas,71,11.33,Si,No,,Disco,Disco,ABS/ESC/ADAS,5,1.97,1.76,2.9,Alta,Si,Si,Si,Si,Si,5,Si,Si,Si,Si,Si,Si,Si,Si,No,Si,Si,SUV,SUV-ExtendedSize
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sistema de monitoreo de presión de llantas (TPMS),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Sistema de Frenado Antibloqueo (ABS), Distribución Electrónica de Frenado (EBD) y Asistencia de Frenado (BA) • • • Control Dinámico Vehicular (VD",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sentra https://www.nhtsa.gov/ratings,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Control dinámico de estabilidad (DSC).,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sistema de monitoreo de cambio de carril (LDW).,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+VSC,Control de Estabilidad de Vehiculo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRAC,Control de traccion,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HAC,Asistencia de Control en subidas,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SST,Sistema de Frenado Inteligente,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DAC,Asistencia de Control en Bajadas,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+RSC,Control Anti Volcadura,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ESP,Control Electrónico de Estabilidad,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TCS,Control de Tracción,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AdvanceTrac,Control de Tracción Avanzada,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ASR,Control de Traccion,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+EDL/EDS,Bloqueo electronico de diferencial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ESC,Control Electronico de estabilidad,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+EBV,Sistema electronico de distribucion de frenado,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+VSM,Vehicle Stability Management,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ADAS,Advance Driver Assistance Service,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
