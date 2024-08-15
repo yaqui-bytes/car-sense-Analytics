@@ -1,4 +1,4 @@
-# car-sense-Analytics
+# Car Sense Analytics
 ## Overview
 This project is focused on exploring and analyzing a dataset of cars to uncover insights using advanced machine learning algorithms. The primary objective is to apply algorithms like Stochastic Gradient Descent (SGD) and neural networks to predict the segments and class of cars
 
